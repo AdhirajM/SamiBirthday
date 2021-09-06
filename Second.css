@@ -1,0 +1,44 @@
+#Main{
+    
+    font-size: 150px;
+}
+
+Body{
+    
+    background-color:blue;
+    color: white;
+    
+}
+
+img{
+    
+    height: 200px;
+    width: 250px;
+    
+}
+
+a{
+    color: aqua;
+    
+}
+
+p{
+    text-align: left;
+    font-size: 25px;
+    
+}
+#Hello{
+    
+    width: 400px;
+    height: 350px;
+}
+
+#Pink{
+height: 400px;
+    width: 350px;
+}
+
+#Naked{
+    height: 400px;
+    width: 350px;
+}
